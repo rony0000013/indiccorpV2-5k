@@ -1,0 +1,25 @@
+code,language,samples,source_files,notes
+as,Assamese,5000,as.txt,first 5000 non-empty lines
+bd,Bodo,5000,bd.txt,first 5000 non-empty lines
+bn,Bengali,5000,bn.txt,first 5000 non-empty lines
+dg,Dogri,5000,dg.txt,first 5000 non-empty lines
+en,English,5000,en.txt,first 5000 non-empty lines
+gom,Konkani (Goan),5000,gom.txt,first 5000 non-empty lines
+gu,Gujarati,5000,gu.txt,first 5000 non-empty lines
+hi,Hindi,5000,hi-1.txt;hi-2.txt;hi-3.txt,first 5000 non-empty lines streaming hi-1->hi-2->hi-3
+kha,Khasi,5000,kha.txt,first 5000 non-empty lines
+kn,Kannada,5000,kn.txt,first 5000 non-empty lines
+ks,Kashmiri,3243,ks.txt,SOURCE EXHAUSTED — only 3243 non-empty lines in source
+mai,Maithili,5000,mai.txt,first 5000 non-empty lines
+ml,Malayalam,5000,ml.txt,first 5000 non-empty lines
+mni,Manipuri,5000,mni.txt,first 5000 non-empty lines
+mr,Marathi,5000,mr.txt,first 5000 non-empty lines
+ne,Nepali,5000,ne.txt,first 5000 non-empty lines
+or,Odia,5000,or.txt,first 5000 non-empty lines
+pa,Punjabi,5000,pa.txt,first 5000 non-empty lines
+sa,Sanskrit,5000,sa.txt,first 5000 non-empty lines
+sat,Santali,5000,sat.txt,first 5000 non-empty lines
+sd,Sindhi,5000,sd.txt,first 5000 non-empty lines
+ta,Tamil,5000,ta.txt,first 5000 non-empty lines
+te,Telugu,5000,te.txt,first 5000 non-empty lines
+ur,Urdu,5000,ur.txt,first 5000 non-empty lines
